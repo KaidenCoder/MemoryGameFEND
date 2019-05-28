@@ -13,8 +13,7 @@ Udacity Front-End Developer Nanodegree Third Project
 
 The game starts when you make the first choice move and the timer begins to record your total time gameplay.
 
-* Game preview
-<img src="img/play.gif" alt="Game-preview">
+* Game Live preview [Link](https://kurosakicoder.github.io/MemoryGameWebsite/)
 
 
 # How To Play The Game
